@@ -1,4 +1,4 @@
-# Build Your AI Agent with LangGraph from Zero to Hero - Course Readme
+# Build Your AI Agent with LangGraph from Zero to Hero
 
 Welcome to the "Build Your AI Agent with LangGraph from Zero to Hero" course! This course is designed to guide you through the process of creating a sophisticated AI agent using LangGraph, a powerful framework for building language-based AI systems. Whether you're a beginner or have some experience with AI, this course will provide you with the knowledge and skills needed to develop your own AI agent from scratch.
 
